@@ -1,0 +1,38 @@
+[
+    { 
+        "name": "Level up System",
+        "description": "Make your server more active by rewarding users points, roles, and more for being active." 
+    },
+    { 
+        "name": "Games", 
+        "description": "Tons Of Games Are awaiting for you! claim all your deservings and win!" 
+    },
+    { 
+        "name": "Music", 
+        "description": "An extremely high quality music system where you can play songs from youtube in the Discord voice chat." 
+    },
+    { 
+        "name": "Auto-Translate", 
+        "description": "Elysia has the ability to automatically translate messages in a specified language. This makes communication with people from different countries much easier."
+    },
+    { 
+        "name": "Customization", 
+        "description": "Customize your Discord server using welcome and leave messages, level up system, custom commands, NQN mode and much more!" 
+    },
+    { 
+        "name": "Chat Bot", 
+        "description": "This feature allows users to interact with Elysia in a conversational manner. Users can ask the bot questions and receive relevant responses." 
+    },
+    { 
+        "name": "Moderation", 
+        "description": "Protect your Discord server with Elysia's robust moderation and powerful commands to improve and speed up moderation." 
+    },
+    { 
+        "name": "Minecraft Chat Connection", 
+        "description": "Elysia allows for seamless integration between Minecraft server chat and Discord server chat. You can send messages between the two platforms and keep up with what's happening in your Minecraft server while you're on Discord." 
+    },
+    { 
+        "name": "Animated Emoji without Nitro", 
+        "description": "You can use animated emoji in your Discord server without having Nitro. Elysia makes it possible to access a wide range of animated emoji and use them in your messages." 
+    }
+  ]

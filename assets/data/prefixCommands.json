@@ -1,0 +1,192 @@
+{
+    "FUN": [
+        {
+            "name": "8ball",
+            "description": "Ask the magic 8ball a question"
+        },
+        {
+            "name": "coinflip",
+            "description": "Flip a coin"
+        },
+        {
+            "name": "dice",
+            "description": "Rolls a dice."
+        },
+        {
+            "name": "fact",
+            "description": "Get a random fact"
+        },
+        {
+            "name": "gayrate",
+            "description": "Gay rate of a user"
+        },
+        {
+            "name": "hack",
+            "description": "Hack a user"
+        },
+        {
+            "name": "hyperlink",
+            "description": "Creates a hyperlink."
+        },
+        {
+            "name": "mimic",
+            "description": "Mimic a user"
+        },
+        {
+            "name": "rps",
+            "description": "play a game of rock, paper and scissors"
+        },
+        {
+            "name": "say",
+            "description": "Make the bot say something"
+        },
+        {
+            "name": "simprate",
+            "description": "Simp rate of a user"
+        },
+        {
+            "name": "tableflip",
+            "description": "Table flip animation"
+        }
+    ],
+    "INFORMATION": [
+        {
+            "name": "botinfo",
+            "description": "Get information about the bot"
+        },
+        {
+            "name": "bug",
+            "description": "Report a bug"
+        },
+        {
+            "name": "emojiinfo",
+            "description": "Get information about the emoji"
+        },
+        {
+            "name": "feedback",
+            "description": "Send feedback to the bot owner"
+        },
+        {
+            "name": "firstmsg",
+            "description": "Get the first message from the channel."
+        },
+        {
+            "name": "help",
+            "description": "Get help about commands"
+        },
+        {
+            "name": "ping",
+            "description": "Ping the bot"
+        },
+        {
+            "name": "roleinfo",
+            "description": "Get info about a role"
+        },
+        {
+            "name": "serverinfo",
+            "description": "Get information about the server"
+        },
+        {
+            "name": "suggest",
+            "description": "Suggest something"
+        },
+        {
+            "name": "uptime",
+            "description": "Get the bot's uptime"
+        }
+    ],
+    "MODERATION": [
+        {
+            "name": "ban",
+            "description": "Ban a user from the server."
+        },
+        {
+            "name": "kick",
+            "description": "Kick a user from the server."
+        },
+        {
+            "name": "timeout",
+            "description": "Timeout a user for a specified time."
+        },
+        {
+            "name": "unban",
+            "description": "Unban a user from the server."
+        }
+    ],
+    "MUSIC": [
+        {
+            "name": "autoplay",
+            "description": "Toggles autoplay for the current voice channel."
+        },
+        {
+            "name": "filter",
+            "description": "Toggles the filter for the current voice channel."
+        },
+        {
+            "name": "pause",
+            "description": "Pauses the current song."
+        },
+        {
+            "name": "play",
+            "description": "Plays a song."
+        },
+        {
+            "name": "previous",
+            "description": "Previous song."
+        },
+        {
+            "name": "queue",
+            "description": "Get the queue."
+        },
+        {
+            "name": "repeat",
+            "description": "Repeat the current song or queue."
+        },
+        {
+            "name": "resume",
+            "description": "Resume the current song."
+        },
+        {
+            "name": "shuffle",
+            "description": "Shuffle the current queue."
+        },
+        {
+            "name": "skip",
+            "description": "Skip the current song."
+        },
+        {
+            "name": "stop",
+            "description": "Stop the current song and leave the voice channel."
+        },
+        {
+            "name": "volume",
+            "description": "Change the volume of the current song."
+        }
+    ],
+    "OWNER": [
+        {
+            "name": "delete",
+            "description": "Delete the application commands"
+        },
+        {
+            "name": "deploy",
+            "description": "Deploy the application commands"
+        },
+        {
+            "name": "eval",
+            "description": "Evaluates code"
+        },
+        {
+            "name": "reload",
+            "description": "Reloads all commands"
+        },
+        {
+            "name": "setprefix",
+            "description": "Set the bots prefix in the guild"
+        },
+        {
+            "name": "shutdown",
+            "description": "Shutdown the bot"
+        }
+    ]
+}

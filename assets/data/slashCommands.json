@@ -1,0 +1,177 @@
+{
+    "AI": [
+        {
+            "name": "chatgpt",
+            "description": "Ask questions and recieve answers from chatpgt."
+        },
+        {
+            "name": "dalle",
+            "description": "Generate an image using the dalle api."
+        },
+        {
+            "name": "novelai",
+            "description": "Generate images using NovelAI models."
+        },
+        {
+            "name": "stable_diffusion",
+            "description": "Generate images using Stable Diffusion."
+        }
+    ],
+    "ANIME": [
+        {
+            "name": "anime",
+            "description": "Search for an anime."
+        },
+        {
+            "name": "anime_quotes",
+            "description": "Get a random anime quote."
+        },
+        {
+            "name": "booru",
+            "description": "Search for NSFW content from booru sites."
+        },
+        {
+            "name": "manga",
+            "description": "Search for a manga."
+        },
+        {
+            "name": "nekos_life",
+            "description": "Get an image from Nekos.life api."
+        },
+        {
+            "name": "waifu_pics",
+            "description": "Get an image from Waifu Pics api."
+        }
+    ],
+    "CONFIGURATION": [
+        {
+            "name": "autotranslate",
+            "description": "Enables or disables auto-translation for the user."
+        },
+        {
+            "name": "command",
+            "description": "(add/remove) Custom prefix commands for the guild."
+        },
+        {
+            "name": "custom_commands",
+            "description": "List all available custom commands for the guild."
+        },
+        {
+            "name": "role_panel",
+            "description": "Display the role panel."
+        },
+        {
+            "name": "select_roles",
+            "description": "(add/remove) Roles for the role_panel command."
+        },
+        {
+            "name": "set_rules",
+            "description": "Set the guild's rules."
+        },
+        {
+            "name": "welcome",
+            "description": "(set/remove) Welcome channel of the guild."
+        }
+    ],
+    "CONTEXT": [
+        {
+            "name": "avatar"
+        },
+        {
+            "name": "translate"
+        },
+        {
+            "name": "userinfo"
+        }
+    ],
+    "GAMES": [
+        {
+            "name": "genius_invokation_tcg",
+            "description": "Get a random card from the Genshin Impact's Genius Invokation TCG."
+        },
+        {
+            "name": "genshin_impact",
+            "description": "Search about the information about a Genshin Impact character."
+        },
+        {
+            "name": "honkai_impact",
+            "description": "Search about the information about a Honkai Impact character."
+        },
+        {
+            "name": "overwatch_codes",
+            "description": "Searches for Overwatch Workshop codes."
+        },
+        {
+            "name": "pokemon_card",
+            "description": "Make a pokemon card with a users avatar."
+        }
+    ],
+    "MISCELLANEOUS": [
+        {
+            "name": "8ball",
+            "description": "Ask the magic 8ball a question."
+        },
+        {
+            "name": "create_bot",
+            "description": "Create a discord bot using a discord token."
+        },
+        {
+            "name": "purge",
+            "description": "Purges a number of messages."
+        },
+        {
+            "name": "rules",
+            "description": "Show the rules of the guild."
+        },
+        {
+            "name": "send",
+            "description": "Make the bot send a message to specific channel."
+        },
+        {
+            "name": "text",
+            "description": "Convert a text."
+        },
+        {
+            "name": "tts",
+            "description": "Text to speech in voice channel."
+        },
+        {
+            "name": "video_downloader",
+            "description": "Downloads a video from links that doesn't allow downloads and send it back."
+        },
+        {
+            "name": "webhook",
+            "description": "Sends a message through a webhook."
+        }
+    ],
+    "SEARCH": [
+        {
+            "name": "deviantart",
+            "description": "Searches DeviantArt for a user."
+        },
+        {
+            "name": "github",
+            "description": "Searches GitHub for a user."
+        },
+        {
+            "name": "reddit",
+            "description": "Get a random post from a subreddit."
+        },
+        {
+            "name": "steam",
+            "description": "Get steam statistics of a user."
+        },
+        {
+            "name": "tenor",
+            "description": "Search for a gif from Tenor."
+        },
+        {
+            "name": "website_preview",
+            "description": "Preview a website."
+        },
+        {
+            "name": "wikipedia",
+            "description": "Searches Wikipedia for a given query."
+        }
+    ]
+}
