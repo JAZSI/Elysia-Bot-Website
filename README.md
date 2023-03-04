@@ -1,4 +1,4 @@
-# Elysia bot website
+# Elysia bot
 
 A website for Elysia bot
 

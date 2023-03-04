@@ -1,13 +1,77 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Elysia</title>
-  </head>
-  <body>
-    <div id="root"></div>
-    <script type="module" src="/src/main.jsx"></script>
-  </body>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Elysia bot</title>
+    <meta content="A multi-purpose Discord bot built using the Discord.js library. It is designed to perform a variety of tasks and features on a Discord server." property="og:description" />
+    <meta content="http://jazsi.github.io/" property="og:url" />
+    <meta content="https://huggingface.co/Jaszii/DialoGPT-Elysia/resolve/main/Elysia.png" property="og:image" />
+    <meta content="#F50B94" data-react-helmet="true" name="theme-color" />
+
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="assets/images/avatar.png">
+    <script src="assets/jquery-3.6.3.js"></script>
+    <script src="script.js"></script>
+</head>
+<body>
+
+    <video autoplay loop muted plays-inline class="back-video">
+        <source src="assets/background.mp4" type="video/mp4">
+    </video>
+
+    <div class="top">
+        <nav>
+            <img src="assets/images/logo.png" alt="logo" class="logo">
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#features">Features</a></li>
+                <li><a href="#commands">Commands</a></li>
+            </ul>
+        </nav>
+        <div class="content">
+            <img src="assets/images/avatar.png" class="avatar">
+            <h1>Elysia</h1>
+            <a href="invite.html">Invite me</a>
+        </div>
+    </div>
+
+    <section class="features" id="features">
+        <h1 class="title1">Features</h1>
+
+        <div class="features-content"></div>     
+
+    </section>
+
+    <section class="commands" id="commands">
+        <h1 class="title2">Commands</h1>
+        <h2>Prefix Commands</h2>
+        <table id="prefixTable">
+            <thead>
+                <tr>
+                <th>Category</th>
+                <th>Commands</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+
+        <h2>Slash Commands</h2>
+        <table id="slashTable">
+            <thead>
+                <tr>
+                <th>Category</th>
+                <th>Commands</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+    </section>
+    
+    <footer>
+        <p>Made with ❤️ by JAZSI<br>
+    </footer>
+</body>
 </html>
